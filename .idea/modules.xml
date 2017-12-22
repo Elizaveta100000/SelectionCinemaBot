@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/SelectionCinemaBot.iml" filepath="$PROJECT_DIR$/.idea/SelectionCinemaBot.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/SelectionCinemaBot1.iml" filepath="$PROJECT_DIR$/.idea/SelectionCinemaBot1.iml" />
+>>>>>>> origin/master
     </modules>
   </component>
 </project>
