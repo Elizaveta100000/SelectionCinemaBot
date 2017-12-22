@@ -3,3 +3,4 @@ requests==2.7.0
 beautifulsoup4==4.6.0
 IMDbPY==6.2
 pyTelegramBotAPI==3.5.1
+

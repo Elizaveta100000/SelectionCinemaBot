@@ -8,7 +8,6 @@ token_tele = '492227439:AAF3wwl73zSTGFYyo3QqLA2tqrhKz7gsEa4'
 api_key = '35c2d6b4'
 imdb_url = 'http://www.imdb.com/search/keyword'
 
-
 class MoviesBot():
     readyStrings = ['Ready to /help!']
     whatStrings = ['Yes?', 'Hmmm?', 'What do you want?']
